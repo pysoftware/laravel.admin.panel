@@ -6,7 +6,7 @@ _ide_helper.php
 /node_modules
 /storage/*.key
 /vendor
-.env
+.env.example
 .env.backup
 .phpunit.result.cache
 Homestead.json
